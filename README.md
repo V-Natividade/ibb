@@ -7,12 +7,15 @@ Igreja Batista de Barreiros (IBB) ![Badge](https://img.shields.io/github/license
 
 Links de acesso:
 
-- [Back-end](BACKEND.md)
-- [Front-end](FRONTEND.md)
-- [Requisitos](REQUISITOS.md)
+- [Back-end](README_backend.md)
+- [Front-end](README_frontend.md)
+- [Requisitos](README_requisitos.md)
 
 ## Tarefas 📝
 
+- [ ] Abrir repo para o back-end e montar o README_backend.md dele
+- [ ] Abrir repo para o front-end e montar o README_frontend.md dele
+- [ ] Abrir repo docs para abarcar todos REAMDE_file.md que envolvam a documentação 
 - [ ] Reunião com PO para montar documentação
 
 ## Contribuindo 🎉
