@@ -29,7 +29,7 @@ Siga os passos:
 
 ## Licença 📖
 
-Repositório licenciaiado sob os termos da [Licença MIT].
+Repositório licenciaiado sob os termos da [Licença MIT](LICENSE).
 
 ## Créditos ✨
 
