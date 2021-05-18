@@ -36,8 +36,8 @@ Repositório licenciaiado sob os termos da [Licença MIT](LICENSE).
 
 ## Créditos ✨
 
-[<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade) | 
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade) | [<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade)
+| :---: | | :---: |
 
 | [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
 | :---: | :---: | :---: |
