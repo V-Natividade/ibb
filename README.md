@@ -5,9 +5,11 @@ Igreja Batista de Barreiros (IBB) ![Badge](https://img.shields.io/github/license
 
 > Atalhos para partes importantes da aplicação IBB 😜
 
--[Back-end](BACKEND.md)
--[Front-end](FRONTEND.md)
--[Requisitos](REQUISITOS.md)
+Links de acesso:
+
+- [Back-end](BACKEND.md)
+- [Front-end](FRONTEND.md)
+- [Requisitos](REQUISITOS.md)
 
 ## Tarefas 📝
 
