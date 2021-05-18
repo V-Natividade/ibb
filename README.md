@@ -39,4 +39,3 @@ Repositório licenciaiado sob os termos da [Licença MIT](LICENSE).
 [<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade) | 
 | :---: |
 [<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade) |
-| :---: |
