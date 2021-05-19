@@ -24,7 +24,7 @@ Toda contribuição será muito bem recebida, fique à vontade para fazer a sua!
 
 Siga os passos:
 
-1. Faça um fork (https://github.com/vnatividade/EssentialCMDs/)
+1. Faça um fork (https://github.com/vnatividade/ibb)
 2. Crie uma nova branch (git checkout -b feature/fooBar)
 4. Commite suas modificações (git commit -m 'feat: add fooBar')
 5. Empurre suas modificações (git push origin feature/fooBar)
