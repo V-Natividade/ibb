@@ -23,9 +23,6 @@ Links de acesso:
 Toda contribuição será muito bem recebida, fique à vontade para fazer a sua!!
 
 Siga os passos:
-
-1. Faça um fork (https://github.com/vnatividade/EssentialCMDs/)
-=======
 1. Faça um fork (https://github.com/vnatividade/ibb)
 2. Crie uma nova branch (git checkout -b feature/fooBar)
 4. Commite suas modificações (git commit -m 'feat: add fooBar')
@@ -35,13 +32,6 @@ Siga os passos:
 ## Licença 📖
 
 Repositório licenciaiado sob os termos da [Licença MIT](LICENSE).
-
-## Créditos ✨
-
-| [<img src="https://avatars.githubusercontent.com/u/70488078?v=4" width=100> <br> <sub>Vitor Natividade</sub>](https://github.com/V-Natividade) | [<img src="https://avatars.githubusercontent.com/u/45997767?s=400&u=49f0089ca26a01e547b936328f6acd6fd934a19f&v=4" width=100> <br> <sub>Mateus Jeleno</sub>](https://github.com/jeleno) |
-| :---: | :---: |
-=======
-Repositório licenciado sob os termos da [Licença MIT](LICENSE).
 
 ## Créditos ✨
 
