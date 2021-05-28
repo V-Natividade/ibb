@@ -5,6 +5,6 @@ const User = require('../models/User');
 
 const connection = new Sequelize(dbConfig);
 
-User.init(connection);
+User.init(connection)
 
 module.exports = connection;
